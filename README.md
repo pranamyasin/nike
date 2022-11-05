@@ -1,3 +1,1 @@
 # nike
-# eda
-# conclusion
